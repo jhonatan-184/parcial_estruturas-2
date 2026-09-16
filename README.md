@@ -1,4 +1,6 @@
 # parcial_estruturas-2
+soy el estudiantes que tuvo problemas al importar
+Jhonatan Alexander Villada Grajales carnet:25258241
 4. Historial de operaciones de un cajero
 Objeto Operacion
 •	numeroOperacion 
